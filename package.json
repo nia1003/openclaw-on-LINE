@@ -1,4 +1,4 @@
-{
+ㄈㄝ{
   "name": "openclaw",
   "version": "2026.3.14",
   "description": "Multi-channel AI gateway with extensible messaging integrations",
@@ -363,7 +363,7 @@
   },
   "dependencies": {
     "@openclaw/line": "latest",
-    "@openclaw/plugin-sdk": "latest"
+    "@openclaw/plugin-sdk": "latest",
     "@agentclientprotocol/sdk": "0.16.1",
     "@aws-sdk/client-bedrock": "^3.1009.0",
     "@buape/carbon": "0.0.0-beta-20260216184201",
